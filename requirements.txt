@@ -1,0 +1,6 @@
+# 运行时依赖
+# 本项目核心仅依赖 Python 标准库 (math, tkinter)
+# tkinter 通常随 Python 一起安装；若缺失请参考 README 安装系统包
+
+# 打包工具（可选，仅在构建 exe 时需要）
+pyinstaller>=6.0
