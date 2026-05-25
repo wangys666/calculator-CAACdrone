@@ -2,7 +2,8 @@
 
 面向CAAC无人机操控员考试，地面站部分的桌面计算工具，vibe coding的产物
 基于 Python + Tkinter 实现。提供三角函数、三角形求解、风向航向修正三个常用计算模块。
-暂未打包为exe，过两天会传上来，配置后也可自行打包。
+直接下载可执行文件：
+链接: https://pan.baidu.com/s/12UfVs84A3Hw88Kb9pfBVdQ 提取码: v6cv
 
 ## 功能模块
 
